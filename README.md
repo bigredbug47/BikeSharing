@@ -39,7 +39,7 @@
 <br>
 
 ## Dataset
-<li>The sample data of bike-sharing system.</li>
+- The sample data of bike-sharing system: day.csv (~780 records with 20 columns)
 
 <hr>
 
